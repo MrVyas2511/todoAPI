@@ -5,6 +5,8 @@
 2. GET /user/<pass-your-user-id> - returns user information along with todo items
 where userid matches with the one provided in the URL
  
- ![IMG_1494](https://user-images.githubusercontent.com/60111682/156872473-3d29799b-3e12-4fc6-aeed-536871844a96.JPG)
+![Screenshot (6)](https://user-images.githubusercontent.com/60111682/156872507-8c4703d6-47a2-43a4-94ce-f9b661899bd4.png)
 
-![IMG_1390](https://user-images.githubusercontent.com/60111682/156872467-558fb275-16e3-4507-807d-b24741899e71.JPG)
+ ![Screenshot (7)](https://user-images.githubusercontent.com/60111682/156872510-685222c3-501c-47bb-8fc9-27cafa28f995.png)
+ 
+ 
